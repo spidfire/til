@@ -1,0 +1,10 @@
+var linkdb = [
+    {
+        "url": "https://almanapp.nl/",
+        "tags": ["work", "almanapp","app", "groningen"]
+    },
+    {
+        "url": "http://highscalability.com/",
+        "tags": ["highscalability", "reference", "read"]
+    }
+]
