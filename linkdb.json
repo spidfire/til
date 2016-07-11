@@ -6,5 +6,9 @@ var linkdb = [
     {
         "url": "http://highscalability.com/",
         "tags": ["highscalability", "reference", "read"]
+    },
+    {
+        "url": "http://www.growingwiththeweb.com/2014/01/handy-adb-commands-for-android.html",
+        "tags": ["android", "adb"]
     }
 ]

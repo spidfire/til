@@ -1,19 +1,30 @@
 ### til
 :memo: Today I Learned
 
+### Android
 
-### ADB
+ - [Installing and running android apk's from the terminal](android/adb-install.md)
+ - [Adb key commando's](android/adb-keycommands.md)
+ - [Android](android/allow-matching-of-external-links.md)
+ - [Do a screen capture](android/record-movies.md)
 
- - [Record movies on Androids](adb/record-movies.md)
+### Bash
+
+ - [Create a simple messagequeue with bash](bash/bash-messagequeue.md)
+ - [Some info on screen](bash/screen.md)
+
+### Indesign
+
+ - [Indesign](indesign/datamerge.md)
 
 ### Php
 
- - [Internationalization and Localization](php/i18l.md)
+ - [Internationalization (i18n) and localization (l10n)](php/i18l.md)
 
 ### R
 
- - [A way to write data to text files](r/WriteTextToFiles.md)
+ - [This will start writing to a file](r/WriteTextToFiles.md)
 
-### Self development
+### Self_development
 
  - [Procrastination](self_development/Procrastination.md)
