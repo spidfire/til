@@ -1,4 +1,4 @@
-#
+#!/usr/bin/env ruby
 
 File.open("README.md", 'w') { |file|
 

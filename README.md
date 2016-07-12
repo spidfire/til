@@ -6,6 +6,7 @@
  - [Installing and running android apk's from the terminal](android/adb-install.md)
  - [Adb key commando's](android/adb-keycommands.md)
  - [Android](android/allow-matching-of-external-links.md)
+ - [Internationalization on android](android/i18n.md)
  - [Do a screen capture](android/record-movies.md)
 
 ### Bash
