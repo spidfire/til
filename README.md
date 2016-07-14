@@ -3,20 +3,23 @@
 
 ### Android
 
+ - [Backup your android phone](android/adb-backup.md)
  - [Installing and running android apk's from the terminal](android/adb-install.md)
  - [Adb key commando's](android/adb-keycommands.md)
  - [Android](android/allow-matching-of-external-links.md)
+ - [Demo mode for screenshots](android/demo-mode.md)
  - [Internationalization on android](android/i18n.md)
  - [Do a screen capture](android/record-movies.md)
 
 ### Bash
 
  - [Create a simple messagequeue with bash](bash/bash-messagequeue.md)
+ - [Date function in bash](bash/date.md)
  - [Some info on screen](bash/screen.md)
 
 ### Indesign
 
- - [Indesign](indesign/datamerge.md)
+ - [Datamerge](indesign/datamerge.md)
 
 ### Php
 
