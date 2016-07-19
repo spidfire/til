@@ -17,6 +17,10 @@
  - [Date function in bash](bash/date.md)
  - [Some info on screen](bash/screen.md)
 
+### Git
+
+ - [Usefull git commands](git/usefull-commands.md)
+
 ### Indesign
 
  - [Datamerge](indesign/datamerge.md)
