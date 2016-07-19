@@ -7,8 +7,10 @@
  - [Installing and running android apk's from the terminal](android/adb-install.md)
  - [Adb key commando's](android/adb-keycommands.md)
  - [Android](android/allow-matching-of-external-links.md)
+ - [Annotations in intellij](android/annotations.md)
  - [Demo mode for screenshots](android/demo-mode.md)
  - [Internationalization on android](android/i18n.md)
+ - [Intent's in android](android/intent.md)
  - [Do a screen capture](android/record-movies.md)
 
 ### Bash
