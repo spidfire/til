@@ -33,7 +33,9 @@
 
 ### R
 
+ - [Data frame manipulation](r/DataFrameManipulation.md)
  - [This will start writing to a file](r/WriteTextToFiles.md)
+ - [Ggplot graphs](r/ggplotGraphs.md)
 
 ### Self_development
 
