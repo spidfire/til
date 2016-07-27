@@ -11,3 +11,8 @@ And run the app:
 ```
 adb shell am start -n nl.sample.app/nl.sample.app.LoginActivity
 ```
+
+Add intent/extra parameters:
+```
+adb shell am start -n nl.sample.app/nl.sample.app.LoginActivity  -es test_key test_value
+```

@@ -4,6 +4,7 @@
 ### Android
 
  - [Backup your android phone](android/adb-backup.md)
+ - [Way to download an apk](android/adb-download-apk.md)
  - [Installing and running android apk's from the terminal](android/adb-install.md)
  - [Adb key commando's](android/adb-keycommands.md)
  - [Adb logcat](android/adb-logcat.md)
