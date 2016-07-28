@@ -43,3 +43,7 @@
 ### Self_development
 
  - [Procrastination](self_development/Procrastination.md)
+
+### Vim
+
+ - [Complete any word](vim/complete-any-word.md)
