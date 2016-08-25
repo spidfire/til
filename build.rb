@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+require 'date'
+
 File.open("README.md", 'w') { |file|
 
     file.write "### til\n"
@@ -22,6 +24,22 @@ File.open("README.md", 'w') { |file|
         file.write " - [#{title.strip.capitalize}](#{f})\n"
 
     }
+
+    file.write "### Logs of days"
+    # git log --after="2016-08-05 00:00" --before="2016-08-05 23:59" --name-status | grep "^A\b"
+    current_time = Date.parse(Time.now.to_s)
+    (Date.new(2016, 07, 01).upto(current_time)).each do |date|
+        day = sprintf '%d-%02d-%02d', date.year, date.month, date.day
+        file.write "# #{day}\n"
+        # spawn(*args, STDERR=>:out)
+        `git log --after="#{day} 00:00" --before="#{day} 23:59" --name-status `.each_line { |line|
+            if line.match(/^[AM]\b/i)
+                file.write line
+            end
+         }
+
+        file.write "\n"
+    end
 }
 
 
