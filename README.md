@@ -22,6 +22,7 @@
 
  - [Create a simple messagequeue with bash](bash/bash-messagequeue.md)
  - [Set black screen to black ubuntu](bash/blackscreen-shortcut.md)
+ - [Bootable scripts](bash/bootable-scripts.md)
  - [Date function in bash](bash/date.md)
  - [Some info on screen](bash/screen.md)
 
@@ -523,4 +524,25 @@ A	mysql/variables.md
 # 2017-01-08
 
 # 2017-01-09
+M	README.md
+A	git/up.md
+A	gradle/gradle-run-speed.md
+
+# 2017-01-10
+
+# 2017-01-11
+
+# 2017-01-12
+
+# 2017-01-13
+
+# 2017-01-14
+
+# 2017-01-15
+
+# 2017-01-16
+
+# 2017-01-17
+
+# 2017-01-18
 
