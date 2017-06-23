@@ -24,10 +24,12 @@
  - [Create a simple messagequeue with bash](bash/bash-messagequeue.md)
  - [Set black screen to black ubuntu](bash/blackscreen-shortcut.md)
  - [Bootable scripts](bash/bootable-scripts.md)
+ - [Chmod](bash/chmod.md)
  - [Date function in bash](bash/date.md)
  - [Linux version](bash/linux-version.md)
  - [Locale error on cloud server](bash/locale.md)
  - [Some info on screen](bash/screen.md)
+ - [Select files](bash/wildcard-select.md)
 
 ### Functional_programming
 
@@ -538,6 +540,7 @@ A	gradle/gradle-run-speed.md
 # 2017-01-12
 
 # 2017-01-13
+A	bash/wildcard-select.md
 
 # 2017-01-14
 
@@ -546,6 +549,7 @@ A	gradle/gradle-run-speed.md
 # 2017-01-16
 
 # 2017-01-17
+A	bash/chmod.md
 
 # 2017-01-18
 M	README.md
@@ -862,4 +866,8 @@ A	bash/bootable-scripts.md
 # 2017-06-22
 
 # 2017-06-23
+M	README.md
+A	android/shadows-on-views.md
+A	bash/linux-version.md
+A	bash/locale.md
 
