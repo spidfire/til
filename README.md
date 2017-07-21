@@ -26,7 +26,7 @@
 
 ### Bash
 
- - [Usefull git log commands](bash/access_log.grep.md)
+ - [Usefull apache log commands](bash/access_log.grep.md)
  - [Create a simple messagequeue with bash](bash/bash-messagequeue.md)
  - [Set black screen to black ubuntu](bash/blackscreen-shortcut.md)
  - [Bootable scripts](bash/bootable-scripts.md)
@@ -936,6 +936,7 @@ A	apache/ssl.md
 # 2017-07-20
 
 # 2017-07-21
+M	README.md
 M	README.md
 A	bash/access_log.grep.md
 A	git/nice-gitlog.md

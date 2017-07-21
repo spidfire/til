@@ -1,4 +1,4 @@
-# Usefull git log commands
+# Usefull apache log commands
 
 
 # See live traffic on access log
