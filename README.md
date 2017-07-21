@@ -19,6 +19,11 @@
  - [Shadows on views](android/shadows-on-views.md)
  - [Uncaught exception handler](android/uncaught-exception-capture.md)
 
+### Apache
+
+ - [Enable ssl in apache (osx)](apache/ssl.md)
+ - [Set up virtualhosts](apache/vhost.md)
+
 ### Bash
 
  - [Usefull git log commands](bash/access_log.grep.md)
@@ -913,6 +918,8 @@ A	bash/locale.md
 # 2017-07-12
 
 # 2017-07-13
+A	apache/vhost.md
+A	apache/ssl.md
 
 # 2017-07-14
 
@@ -929,4 +936,7 @@ A	bash/locale.md
 # 2017-07-20
 
 # 2017-07-21
+M	README.md
+A	bash/access_log.grep.md
+A	git/nice-gitlog.md
 
