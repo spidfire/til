@@ -21,6 +21,7 @@
 
 ### Bash
 
+ - [Usefull git log commands](bash/access_log.grep.md)
  - [Create a simple messagequeue with bash](bash/bash-messagequeue.md)
  - [Set black screen to black ubuntu](bash/blackscreen-shortcut.md)
  - [Bootable scripts](bash/bootable-scripts.md)
@@ -37,6 +38,7 @@
 
 ### Git
 
+ - [Nice gitlog](git/nice-gitlog.md)
  - [Up the better pull](git/up.md)
  - [Usefull git commands](git/usefull-commands.md)
 
@@ -867,7 +869,64 @@ A	bash/bootable-scripts.md
 
 # 2017-06-23
 M	README.md
+M	README.md
 A	android/shadows-on-views.md
 A	bash/linux-version.md
 A	bash/locale.md
+
+# 2017-06-24
+
+# 2017-06-25
+
+# 2017-06-26
+
+# 2017-06-27
+
+# 2017-06-28
+
+# 2017-06-29
+
+# 2017-06-30
+
+# 2017-07-01
+
+# 2017-07-02
+
+# 2017-07-03
+
+# 2017-07-04
+
+# 2017-07-05
+
+# 2017-07-06
+
+# 2017-07-07
+
+# 2017-07-08
+
+# 2017-07-09
+
+# 2017-07-10
+
+# 2017-07-11
+
+# 2017-07-12
+
+# 2017-07-13
+
+# 2017-07-14
+
+# 2017-07-15
+
+# 2017-07-16
+
+# 2017-07-17
+
+# 2017-07-18
+
+# 2017-07-19
+
+# 2017-07-20
+
+# 2017-07-21
 
