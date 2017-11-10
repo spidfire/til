@@ -10,13 +10,17 @@
  - [Adb logcat](android/adb-logcat.md)
  - [Android](android/allow-matching-of-external-links.md)
  - [Android splashcreen](android/android-splashscreen.md)
+ - [Android tests](android/android-unit-test.md)
  - [Annotations in intellij](android/annotations.md)
+ - [Constraint layout](android/constraint-layout.md)
  - [Send push messages](android/curl-send-push.md)
  - [Demo mode for screenshots](android/demo-mode.md)
  - [Internationalization on android](android/i18n.md)
  - [Intent's in android](android/intent.md)
  - [Do a screen capture](android/record-movies.md)
+ - [Screenshot](android/screenshot.md)
  - [Shadows on views](android/shadows-on-views.md)
+ - [Start activity](android/start-activity.md)
  - [Uncaught exception handler](android/uncaught-exception-capture.md)
 
 ### Apache
@@ -32,10 +36,16 @@
  - [Bootable scripts](bash/bootable-scripts.md)
  - [Chmod](bash/chmod.md)
  - [Date function in bash](bash/date.md)
+ - [Hotkeys](bash/hotkeys.md)
  - [Linux version](bash/linux-version.md)
  - [Locale error on cloud server](bash/locale.md)
  - [Some info on screen](bash/screen.md)
  - [Select files](bash/wildcard-select.md)
+ - [Wordlist](bash/wordlist.md)
+
+### Docker
+
+ - [Kill docker](docker/kill-docker.md)
 
 ### Functional_programming
 
@@ -49,22 +59,30 @@
 
 ### Gradle
 
+ - [Interact with daemon](gradle/daemon.md)
  - [Gradle run speed](gradle/gradle-run-speed.md)
 
 ### Indesign
 
  - [Datamerge](indesign/datamerge.md)
 
+### Js
+
+ - [Fast angular template](js/fast-angular-template.md)
+
 ### Mysql
 
  - [Functions](mysql/functions.md)
  - [Insert if not exist](mysql/hacky_if_not_exist.md)
+ - [Import and export](mysql/import-export.md)
  - [Transactions](mysql/transactions.md)
  - [Variables](mysql/variables.md)
 
 ### Php
 
+ - [Composer fast start](php/composer.md)
  - [Internationalization (i18n) and localization (l10n)](php/i18l.md)
+ - [Twig tricks](php/twig.md)
 
 ### R
 
@@ -937,7 +955,233 @@ A	apache/ssl.md
 
 # 2017-07-21
 M	README.md
+M	bash/access_log.grep.md
+M	README.md
 M	README.md
 A	bash/access_log.grep.md
 A	git/nice-gitlog.md
+
+# 2017-07-22
+
+# 2017-07-23
+
+# 2017-07-24
+
+# 2017-07-25
+
+# 2017-07-26
+
+# 2017-07-27
+
+# 2017-07-28
+
+# 2017-07-29
+
+# 2017-07-30
+
+# 2017-07-31
+
+# 2017-08-01
+
+# 2017-08-02
+
+# 2017-08-03
+
+# 2017-08-04
+
+# 2017-08-05
+
+# 2017-08-06
+
+# 2017-08-07
+
+# 2017-08-08
+
+# 2017-08-09
+
+# 2017-08-10
+
+# 2017-08-11
+
+# 2017-08-12
+
+# 2017-08-13
+
+# 2017-08-14
+
+# 2017-08-15
+
+# 2017-08-16
+
+# 2017-08-17
+
+# 2017-08-18
+
+# 2017-08-19
+
+# 2017-08-20
+
+# 2017-08-21
+
+# 2017-08-22
+
+# 2017-08-23
+
+# 2017-08-24
+
+# 2017-08-25
+
+# 2017-08-26
+
+# 2017-08-27
+
+# 2017-08-28
+
+# 2017-08-29
+
+# 2017-08-30
+
+# 2017-08-31
+
+# 2017-09-01
+
+# 2017-09-02
+
+# 2017-09-03
+
+# 2017-09-04
+
+# 2017-09-05
+
+# 2017-09-06
+
+# 2017-09-07
+
+# 2017-09-08
+
+# 2017-09-09
+
+# 2017-09-10
+
+# 2017-09-11
+
+# 2017-09-12
+
+# 2017-09-13
+
+# 2017-09-14
+
+# 2017-09-15
+
+# 2017-09-16
+
+# 2017-09-17
+
+# 2017-09-18
+
+# 2017-09-19
+
+# 2017-09-20
+
+# 2017-09-21
+
+# 2017-09-22
+
+# 2017-09-23
+
+# 2017-09-24
+
+# 2017-09-25
+
+# 2017-09-26
+
+# 2017-09-27
+
+# 2017-09-28
+
+# 2017-09-29
+
+# 2017-09-30
+
+# 2017-10-01
+
+# 2017-10-02
+
+# 2017-10-03
+
+# 2017-10-04
+
+# 2017-10-05
+
+# 2017-10-06
+
+# 2017-10-07
+
+# 2017-10-08
+
+# 2017-10-09
+
+# 2017-10-10
+
+# 2017-10-11
+
+# 2017-10-12
+
+# 2017-10-13
+
+# 2017-10-14
+
+# 2017-10-15
+
+# 2017-10-16
+
+# 2017-10-17
+
+# 2017-10-18
+
+# 2017-10-19
+
+# 2017-10-20
+
+# 2017-10-21
+
+# 2017-10-22
+
+# 2017-10-23
+
+# 2017-10-24
+
+# 2017-10-25
+
+# 2017-10-26
+
+# 2017-10-27
+
+# 2017-10-28
+
+# 2017-10-29
+
+# 2017-10-30
+
+# 2017-10-31
+
+# 2017-11-01
+
+# 2017-11-02
+
+# 2017-11-03
+
+# 2017-11-04
+
+# 2017-11-05
+
+# 2017-11-06
+
+# 2017-11-07
+
+# 2017-11-08
+
+# 2017-11-09
+
+# 2017-11-10
 
