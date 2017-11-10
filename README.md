@@ -38,8 +38,10 @@
  - [Date function in bash](bash/date.md)
  - [Hotkeys](bash/hotkeys.md)
  - [Linux version](bash/linux-version.md)
+ - [Load averages](bash/load_averages.md)
  - [Locale error on cloud server](bash/locale.md)
  - [Some info on screen](bash/screen.md)
+ - [Top](bash/top.md)
  - [Select files](bash/wildcard-select.md)
  - [Wordlist](bash/wordlist.md)
 
@@ -1022,6 +1024,8 @@ A	git/nice-gitlog.md
 # 2017-08-20
 
 # 2017-08-21
+A	bash/top.md
+A	bash/load_averages.md
 
 # 2017-08-22
 
@@ -1184,4 +1188,18 @@ A	git/nice-gitlog.md
 # 2017-11-09
 
 # 2017-11-10
+M	README.md
+A	android/android-unit-test.md
+A	android/constraint-layout.md
+A	android/screenshot.md
+A	android/start-activity.md
+A	bash/hotkeys.md
+A	bash/wordlist.md
+A	docker/kill-docker.md
+M	git/usefull-commands.md
+A	gradle/daemon.md
+A	js/fast-angular-template.md
+A	mysql/import-export.md
+A	php/composer.md
+A	php/twig.md
 
